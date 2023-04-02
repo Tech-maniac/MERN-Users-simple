@@ -1,4 +1,5 @@
-# MERN-Users-simple
+Steps to run the code :
+
 Open a split terminal :
 1. Navigate to the client folder by writing cd client, then write the command npm i to install all the packages on the client.
 2.Navigate to the server folder by writing cd server, then write the command npm i to install all the packages on the server side.
